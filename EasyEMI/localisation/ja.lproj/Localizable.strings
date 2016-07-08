@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  EasyEMI
+
+  Created by Karthik on 16/07/14.
+  Copyright (c) 2014 karthik. All rights reserved.
+*/
+
+"Select a date"="日付を選択";
+"Jan"="1月";
+"Feb"="2月";
+"Mar"="3月";
+"Apr"="4月";
+"May"="5月";
+"Jun"="6月";
+"Jul"="7月";
+"Aug"="8月";
+"Sep"="9月";
+"Oct"="10月";
+"Nov"="11月";
+"Dec"="12月";
+"Prev"="前";
+"Next"="次";
+"Done"="終わった";
+"Page"="ページ";
+"Date"="日付";
+"Loan Amount"="融資額";
+"Interest Rate"="金利";
+"Loan tenure"="ローンのテニュア";
+"EMI"="簡単に毎月の割賦";
+"Total Interest"="利息の合計";
+"Total Payment"="お支払い総額";
+"Options"="オプション";
+"Send an E-Mail"="メールを送信";
+"Print the PDF"="PDFを印刷";
+"Thanks"="感謝";
+"Please find the attached PDF with below details"="下記の詳細を添付のPDFを見つけてください";

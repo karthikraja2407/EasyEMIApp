@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  EasyEMI
+
+  Created by Karthik on 16/07/14.
+  Copyright (c) 2014 karthik. All rights reserved.
+*/
+
+
+"Select a date" ="Choisissez une date";
+"Jan"="Jan";
+"Feb"="fév";
+"Mar"="Mar";
+"Apr"="Avr";
+"May"="Mai";
+"Jun"="Jui";
+"Jul"="Jui";
+"Aug"="Aoû";
+"Sep"="Sep";
+"Oct"="Oct";
+"Nov"="Nov";
+"Dec"="Déc";
+"Prev"="Préc";
+"Next"="Suivant";
+"Done"="Terminé";
+"Page"="Page";
+"Date"="Date";
+"Loan Amount"="Montant du prêt";
+"Interest Rate"="Taux d'intérêt";
+"Loan tenure"="durée du prêt";
+"EMI"="Mensualités facile";
+"Total Interest"="Intrest totale";
+"Total Payment"="Paiement Total";
+"Options"="les options";
+"Send an E-Mail"="Envoyer et E-mail";
+"Print the PDF"="Imprimer le PDF";
+"Thanks"="Merci";
+"Please find the attached PDF with below details"="S'il vous plaît trouver le PDF ci-joint les détails ci-dessous";

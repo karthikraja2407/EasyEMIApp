@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  EasyEMI
+
+  Created by Karthik on 16/07/14.
+  Copyright (c) 2014 karthik. All rights reserved.
+*/
+
+
+"Select a date" ="Select a date";
+"Jan"="Jan";
+"Feb"="Feb";
+"Mar"="Mar";
+"Apr"="Apr";
+"May"="May";
+"Jun"="Jun";
+"Jul"="Jul";
+"Aug"="Aug";
+"Sep"="Sep";
+"Oct"="Oct";
+"Nov"="Nov";
+"Dec"="Dec";
+"Prev"="Prev";
+"Next"="Next";
+"Done"="Done";
+"Page"="Page";
+"Date"="Date";
+"Loan Amount"="Loan Amount";
+"Interest Rate"="Interest Rate";
+"Loan tenure"="Loan tenure";
+"EMI"="EMI";
+"Total Interest"="Total Interest";
+"Total Payment"="Total Payment";
+"Options"="Options";
+"Send an E-Mail"="Send an E-Mail";
+"Print the PDF"="Print the PDF";
+"Thanks"="Thanks";
+"Please find the attached PDF with below details"="Please find the attached PDF with below details";
+
+
+
+
+"Error" = "Error";
+"Please Configure your mail account" = "Please Configure your mail account";
+"Ok" = "Ok";
+"Schedule" = "Schedule";
+"EMI Schedules" = "EMI Schedule";
+"Principal" = "Principal";
+"Interest" = "Interest";
+"Balance" = "Balance";
+"PDF" = "PDF";

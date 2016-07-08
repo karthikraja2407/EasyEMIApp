@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BA0E02E-B0BF-459C-8433-42B06E3273BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EasyEMI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8AA4AC4B-FD13-471D-A7EF-EEFEE28F3A17</key>
+		<string>https://bitbucket.org/karthikraja2407/emi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EasyEMI/EasyEMI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8AA4AC4B-FD13-471D-A7EF-EEFEE28F3A17</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/karthikraja2407/emi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8AA4AC4B-FD13-471D-A7EF-EEFEE28F3A17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8AA4AC4B-FD13-471D-A7EF-EEFEE28F3A17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EasyEMI 1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
